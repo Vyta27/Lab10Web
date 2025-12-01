@@ -52,6 +52,6 @@ $b->gantiWarna("Hijau");
 $b->tampilWarna();
 ?>
 ```
-
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/005dbe3c-8eef-46bb-a071-f1aca744aa6d" />
 
 

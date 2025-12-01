@@ -210,7 +210,6 @@ class Database {
 }
 ?>
 ```
-<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/f55c8d07-4e16-4d6a-8134-41dc312e9a06" />
 
 - Class ini memiliki method:
     - insert()
@@ -231,6 +230,7 @@ CREATE TABLE mahasiswa (
     alamat VARCHAR(255)
 );
 ```
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/f55c8d07-4e16-4d6a-8134-41dc312e9a06" />
 
 - Tabel ini menerima data dari form.
 

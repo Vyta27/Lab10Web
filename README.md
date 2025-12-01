@@ -210,6 +210,8 @@ class Database {
 }
 ?>
 ```
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/f55c8d07-4e16-4d6a-8134-41dc312e9a06" />
+
 - Class ini memiliki method:
     - insert()
     - query()
@@ -300,6 +302,7 @@ $insert = $db->insert("mahasiswa", $data);
 </body>
 </html>
 ```
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/68f64cd4-a67e-4148-8df2-0107c07c27f8" />
 
 - File simpan.php bertugas:
     - menerima data POST dari form
